@@ -1,0 +1,10 @@
+.btn_switcher {
+    width: 43px;
+    height: 40px;
+    border-radius: 50%;
+    background:url("/David Dreiling.jpg");
+}
+.btn_switcher:hover{
+    cursor: pointer;
+    box-shadow: 0 0 10px #dac465;
+}

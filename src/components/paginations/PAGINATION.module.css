@@ -1,0 +1,9 @@
+
+.pagination li{
+    font-weight: 900;
+}
+
+.pagination_controled {
+    display: flex;
+    justify-content: center;
+}

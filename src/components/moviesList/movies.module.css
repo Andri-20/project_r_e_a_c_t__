@@ -1,0 +1,17 @@
+.movies_wrap{
+    display: flex;
+    flex-wrap: wrap;
+}
+.selected_page{
+    font-weight: bold;
+}
+
+
+.pagination li{
+    font-weight: 900;
+}
+
+.pagination_controled {
+    display: flex;
+    justify-content: center;
+}
